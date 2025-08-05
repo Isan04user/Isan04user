@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Isan04user
-- 👀 I’m interested in finding a team to work in creating websites, in Frontend.
-- 🌱 I’m currently learning JavaScript and python.
-- 💞️ I’m looking to collaborate on creating websites. I want to find a team for this.
-- 📫 How to reach me? insta: @doc.assistant.i
-- 😄 Pronouns: usual pronouns, I'm a man
-- ⚡ Fun fact: Sometimes I forget to look at the time, so I work a long time and it's quite a dark outside at window. 
+### Hi there 👋 I'm @Isan04user
+
+- 👨‍💻 I’m a junior full-stack developer from Bishkek, Kyrgyzstan  
+- 🔭 I’m currently learning **JavaScript**, **React**, **Angular**, and **Node.js**  
+- 🌱 Also exploring **Python** in my free time  
+- 🤝 I’m looking to **join a team** or **collaborate on website projects**  
+- 📫 Reach me on Instagram: @myktybekoff 
+- ⚡ Fun fact: Sometimes I get so focused on coding that I forget time — and suddenly it’s dark outside 🌙  
 
 <!---
 Isan04user/Isan04user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
